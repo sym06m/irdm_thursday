@@ -1,0 +1,6 @@
+agent:
+  name: starter_pack_agent
+  model: gemini-3
+  instruction: |
+    This agent is created using the Agent Starter Pack structure.
+    It responds to user prompts.
